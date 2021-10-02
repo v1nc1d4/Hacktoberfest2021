@@ -4,8 +4,8 @@
 
 <p align="center">
    <img alt="GitHub issues" src="https://img.shields.io/github/issues/v1nc1d4/Hacktoberfest2021"></a>
-   <img alt="GitHub forks" src="https://img.shields.io/github/issues/v1nc1d4/Hacktoberfest2021"></a>
-   <img alt="GitHub stars" src="https://img.shields.io/github/issues/v1nc1d4/Hacktoberfest2021"></a>
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/v1nc1d4/Hacktoberfest2021"></a>
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/v1nc1d4/Hacktoberfest2021"></a>
 </p>
 
 A Beginner friendly repo to push PRs for Hacktoberfest2021
