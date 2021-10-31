@@ -12,11 +12,11 @@ A Beginner friendly repo to push PRs for Hacktoberfest2021
 
 ## What is Hacktoberfest?
 
-It is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+Hacktober is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
 - Hacktoberfest is a celebration open to everyone in our global community.
 - Pull requests can be made in any GitHub-hosted repositories/projects with [hacktoberfest](https://github.com/search?q=hacktoberfest) topic added.
-- You can sign up anytime between October 1 and October 31.
+- You can sign up anytime between October 1 and October 31 to proceed.
 ***
 # 👕 Why Should I Contribute?
 Hacktoberfest has a simple and plain motto
@@ -31,7 +31,7 @@ Working with open source project is a rewarding experience that allows you to pr
 ***
 
 ## IMPORTANT INSTRUCTIONS
-You must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). PRs made before or after that won't be counted!!
+You must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). PRs made before or after that won't be counted!! So make it good.
 
 Visit the hactoberfest site for more details :- https://hacktoberfest.digitalocean.com
 
